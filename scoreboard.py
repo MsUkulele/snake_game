@@ -24,6 +24,3 @@ class Scoreboard(Turtle):
         self.goto(0,0)
         self.write("GAME OVER", align = AlIGNMENT, font = FONT)
 
-        #and here
-        # try out branch created
-

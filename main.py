@@ -50,6 +50,8 @@ while game_is_on:
 
 screen.exitonclick()
 
+# what if I change this one here
+
 # Create a class snake
 
 
